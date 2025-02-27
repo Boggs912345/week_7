@@ -27,6 +27,6 @@
         <label for="exampleInputPassword1">Password confirmation</label>
         <input type="password" class="form-control" id="exampleInputPassword2" placeholder="Password">
     </div>
-    <input type="submit" class="btn btn-primary">
+    <input type="submit" class="btn btn-primary" value="Login">
 </form>
 </html>
