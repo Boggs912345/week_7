@@ -25,10 +25,6 @@
         <label for="exampleInputPassword1">Password</label>
         <input name="password" type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
     </div>
-    <div class="form-group">
-        <label for="exampleInputPassword1">Password confirmation</label>
-        <input type="password" class="form-control" id="exampleInputPassword2" placeholder="Password">
-    </div>
     <input type="submit" class="btn btn-primary" value="Login">
 </form>
 </html>
